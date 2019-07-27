@@ -1,14 +1,14 @@
 # Summary
 
-* [INTRODUCTION](README.md)
+* [Introduction](README.md)
 
 ### For Investor
-* [Downloads](ForUser/download.md)
-* [How to use](ForUser/howtouse.md)
-* [How to get API token](ForUser/support.md)
-* [How to feedback](ForUser/feedback.md)
+* [Downloads](user/download.md)
+* [How to use](user/guide.md)
+* [How to get API token](user/support.md)
+* [How to feedback](user/feedback.md)
 ---
 
 
 ### For Developer
-* [Development Guide](ForDev/guide.md)
+* [Development Guide](dev/guide.md)
