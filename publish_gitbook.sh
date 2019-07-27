@@ -1,3 +1,5 @@
+commitMSG=$1:'update'
+
 # install the plugins and build the static site
 gitbook install && gitbook build
 
@@ -8,7 +10,7 @@ cp -R _book/* .
 git add .
 
 # commit
-git commit -a -m "Update docs"
+git commit -a -m $commitMSG
 
 # push to the master
 git push 
