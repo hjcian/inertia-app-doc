@@ -1,4 +1,3 @@
-
 ## My development environment
 - Win10 Home
 - [GIT Bash](https://gitforwindows.org/) for my mimic-linux terminal
