@@ -4,8 +4,9 @@
 
 ### For Investor
 * [Downloads](ForUser/download.md)
-* [How to Use](ForUser/howtouse.md)
-* [Supported Financial Data Provider](ForUser/support.md)
+* [How to use](ForUser/howtouse.md)
+* [How to get API token](ForUser/support.md)
+* [How to feedback](ForUser/feedback.md)
 ---
 
 

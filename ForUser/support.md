@@ -1,12 +1,15 @@
-Currently, we are support the following financial data provider(s):
-- [IEX Cloud](#iex-cloud)
+Currently, we are supporting you to use the followed financial data provider to get close prices of previous day:
+- **IEX Cloud**
 
 ## IEX Cloud
 
-Please go to [IEX Cloud](https://iexcloud.io/) for obtaining your own apikey.
+1. go to [IEX Cloud](https://iexcloud.io/) homepage
+![iex-home](images/iex-home.PNG) 
 
-**login/ create account**
+2. **login** or **create account**
+![iex-login](images/iex-login.PNG) 
 
-**go to console page**
+3. go to **console** page -> **API Tokens**
+![iex-token](images/iex-token.PNG) 
 
-**get the apikey**
+4. copy the api token and keep it for use within the **inertIA**
